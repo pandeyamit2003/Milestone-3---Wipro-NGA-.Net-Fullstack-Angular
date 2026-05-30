@@ -1,0 +1,6 @@
+@SecureNoteAPI_HostAddress = http://localhost:5144
+
+GET {{SecureNoteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
